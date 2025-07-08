@@ -732,6 +732,5 @@ if page == "💾 Export Predictions":
     else:
         st.warning("No predictions yet.")
 
-# -------------------- Footer --------------------
 st.markdown("---")
 st.markdown("📬 Made with ❤️ to support student wellbeing.")
